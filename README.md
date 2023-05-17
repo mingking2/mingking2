@@ -9,19 +9,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 💼 Skills
 
-- Programming languages: Python, JavaScript, Java
-- Front-end development: HTML, CSS, React
-- Back-end development: Node.js, Express
-- Database: MySQL, MongoDB
+- Programming languages: Python, JavaScript, Java, C, C++
+- Front-end development: HTML, CSS, ~~React~~
+- Back-end development: ~~Node.js~~, ~~Express~~
+- Database: MySQL, ~~MongoDB~~
 
 ## 🌐 Website
 
 Visit my personal website to learn more about me and my projects: [mingking2.github.io](https://mingking2.github.io)
 
-## 📚 Projects
-
-- [Project A](https://github.com/mingking2/project-a): A description of project A.
-- [Project B](https://github.com/mingking2/project-b): A description of project B.
 
 ## 🌟 Top Languages
 
@@ -30,13 +26,8 @@ Visit my personal website to learn more about me and my projects: [mingking2.git
 ## 🔗 Connect with Me
 
 - GitHub: [mingking2](https://github.com/mingking2)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your-email@example.com]
+- Email: [mingee641@gmail.com]
 
 ## 🚀 Open Source Contributions
 
-I actively contribute to various open-source projects. Some of my notable contributions include:
-
-- [Project C](https://github.com/opensource/project-c): Contributed feature XYZ.
-- [Project D](https://github.com/opensource/project-d): Fixed bug ABC.
-
+none
