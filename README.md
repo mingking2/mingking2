@@ -52,7 +52,8 @@
 
 ## 🌐 Website
 
-Visit my personal website to learn more about me and my projects: [mingking2.github.io](https://mingking2.github.io) ➡️ [mingking2.log](https://velog.io/@mingking2)
+Visit my personal website to learn more about me and my projects: 
+[mingking2.github.io](https://mingking2.github.io) ➡️ [mingking2.log](https://velog.io/@mingking2)
 
 ## 🌟 Top Languages
 
