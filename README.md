@@ -55,8 +55,9 @@
 ## 🌐 Website
 
 Visit my personal website to learn more about me and my projects: 
-[mingking2.github.io](https://mingking2.github.io) ➡️ [mingking2.log](https://velog.io/@mingking2)
+[mingking2.github.io](https://mingking2.github.io) ➡️ [mingking2.log](https://velog.io/@mingking2) <br>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://delirious-bearskin-682.notion.site/Computer-Science-e623060ca8bd449ea61cfd4a24074ecb?pvs=4)
 ## 🌟 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingking2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
