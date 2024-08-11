@@ -1,61 +1,20 @@
-<div align="center">
+# 🇰🇷 Mingi's Github
+
+---
+
+## ⚡️ Tech Stack
+
+**Language** : ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Backend** : 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20mingking2's%20Profile&fontSize=40&animation=fadeIn)
-
-## 🚀 About Me
-  
-<p align="center">
-  <samp>I'm a passionate developer with a love for coding and open-source projects.</samp>
-</p>
-
-<p align="center">
-  <samp>Here, you'll find a glimpse into my projects, contributions, and interests.</samp>
-</p>
-
-<p align="center">
-  <samp>Feel free to explore and connect with me!</samp>
-</p>
-
-<p align="center">
-  <samp>할거 존나 많네</samp>
-</p>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingking2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-## 📊 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingking2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmgman)](https://solved.ac/jmgman/)
+## 🚀 Experience
+- **42 Gyeongsan**
 
 
-## 📚 STACKS
-
-<div align=center> 
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-  
-
-</div>
-
-
-## 🌐 Website
-
-Visit my personal website to learn more about me and my projects: <br>
-[mingking2.github.io](https://mingking2.github.io) ➡️ [mingking2.log](https://velog.io/@mingking2) <br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://delirious-bearskin-682.notion.site/Computer-Science-e623060ca8bd449ea61cfd4a24074ecb?pvs=4)
-## 🌟 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingking2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔗 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-mingking2-black?style=flat&logo=github)](https://github.com/mingking2)
-[![Email](https://img.shields.io/badge/Email-mingee641%40gmail.com-red?style=flat&logo=gmail)](mailto:mingee641@gmail.com)
-
-</div>
+---
