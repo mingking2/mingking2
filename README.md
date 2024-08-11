@@ -1,4 +1,4 @@
-# 🇰🇷 Mingi's Github
+# Mingi's Github
 
 ---
 
