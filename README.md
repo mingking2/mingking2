@@ -18,3 +18,9 @@
 
 
 ---
+
+## 📖 Blog & More  
+[![Tistory Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=mingking2&theme=default)](https://mingking2.tistory.com/)
+
+
+---
